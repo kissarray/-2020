@@ -1,0 +1,251 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"enhance": true,
+		"postcss": true,
+		"preloadBackgroundData": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": true,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"uglifyFileName": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"useCompilerModule": false,
+		"userConfirmedUseCompilerModuleSwitch": false
+	},
+	"appid": "wxc590b218453c3ae4",
+	"projectname": "%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E7%9F%AD%E4%BF%A1",
+	"libVersion": "2.8.1",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {
+		"qywx_simulator_plugin": "2.4.0"
+	},
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+	"compileType": "miniprogram",
+	"scripts": {
+		"beforeCompile": "",
+		"beforePreview": "",
+		"beforeUpload": ""
+	},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": 0,
+					"name": "pages/sport/index",
+					"pathName": "pages/sport/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 1,
+					"name": "card",
+					"pathName": "pages/card/card",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 2,
+					"name": "pages/fabu/fabu",
+					"pathName": "pages/fabu/fabu",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 3,
+					"name": "video",
+					"pathName": "pages/video/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "sport",
+					"pathName": "pages/sport/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 5,
+					"name": "pages/my/index",
+					"pathName": "pages/my/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 6,
+					"name": "more",
+					"pathName": "pages/morelife/morelife",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "index",
+					"pathName": "pages/index/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "energy",
+					"pathName": "pages/energy/energy",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 9,
+					"name": "tres",
+					"pathName": "pages/main/tree",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 10,
+					"name": "我的打卡",
+					"pathName": "pages/datacard/datacard",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "runin",
+					"pathName": "pages/runin/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "steps",
+					"pathName": "pages/steps/steps",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/stepchart/t",
+					"pathName": "pages/stepchart/t",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 14,
+					"name": "pages/runin/index",
+					"pathName": "pages/runin/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 15,
+					"name": "stepchart",
+					"pathName": "pages/stepchart/t",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "homelist",
+					"pathName": "pages/homelist/home",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "singins",
+					"pathName": "pages/singins/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "auths",
+					"pathName": "pages/auths/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "storageConsole",
+					"pathName": "pages/storageConsole/storageConsole",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 20,
+					"name": "pages/detail/detail",
+					"pathName": "pages/detail/detail",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/auth/auth",
+					"pathName": "pages/auth/auth",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/runRecord/runRecord",
+					"pathName": "pages/runRecord/runRecord",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/run/run",
+					"pathName": "pages/run/run",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/runin/index",
+					"pathName": "pages/runin/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/singin/index",
+					"pathName": "pages/singin/index",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}
